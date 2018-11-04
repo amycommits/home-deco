@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "label": "Living Room",
+    "roomWidth": 157,
+    "roomHeight": 200,
+    "pixelWidth": 500,
+    "pixelHeight": 750,
+    "orientation": {
+      "top": 0,
+      "bottom": null,
+      "left": 0,
+      "right": null
+    },
+    "roomStyle": {
+      "fill": "lightGrey"
+    },
+    "features": [
+      {
+        "label": "column 1: next to kitchen counter",
+        "width": 25.5,
+        "height": 21,
+        "orientation": {
+          "top": 0,
+          "bottom": null,
+          "left": null,
+          "right": 0
+        },
+        "style": {
+          "fill": "white"
+        }
+      },
+      {
+        "label": "column 2: on wall next to window/tv",
+        "width": 25.5,
+        "height": 19.5,
+        "orientation": {
+          "top": null,
+          "bottom": 0,
+          "left": 0,
+          "right": null
+        },
+        "style": {
+          "fill": "white"
+        }
+      },
+      {
+        "label": "column 3: by entryway",
+        "width": 53,
+        "height": 18.5,
+        "orientation": {
+          "top": null,
+          "bottom": 0,
+          "left": null,
+          "right": 0
+        },
+        "style": {
+          "fill": "white"
+        }
+      }
+    ]
+  }
+]

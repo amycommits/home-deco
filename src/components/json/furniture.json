@@ -1,0 +1,62 @@
+[
+  {
+    "label": "sofa",
+    "width": 85.5,
+    "height": 32.2,
+    "depth": 37,
+    "orientation": {
+      "left": 0,
+      "right": null,
+      "top": 0,
+      "bottom": null
+    },
+    "style": {
+      "fill": "darkGrey"
+    }
+  },
+  {
+    "label": "desk",
+    "width": 30,
+    "height": 45,
+    "depth": 54,
+    "orientation": {
+      "left": 0,
+      "right": null,
+      "top": null,
+      "bottom": 19.5
+    },
+    "style": {
+      "fill": "brown"
+    }
+  },
+  {
+    "label": "ottoman",
+    "width": 17.5,
+    "height": 16.2,
+    "depth": 51.2,
+    "orientation": {
+      "left": 5,
+      "right": null,
+      "top": 38,
+      "bottom": null
+    },
+    "style": {
+      "fill": "teal"
+    }
+  },
+  {
+    "label": "stair bookcase",
+    "width": 41.13,
+    "height": 70.5,
+    "depth": 18.13,
+    "orientation": {
+      "left": null,
+      "right": 25.5,
+      "top": 0,
+      "bottom": null
+    },
+    "style": {
+      "fill": "black"
+    }
+  }
+]
